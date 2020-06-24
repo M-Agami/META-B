@@ -18,14 +18,25 @@ Figures will indicate any key milestones and developments announced regarding th
 Research Questions to Answer
 *What is the environmental impact of a pandemic on senior citizens across each country?
 
+Trend analysis
+hospital_beds_per_thousand vs. total_deaths_per_million
+gdp_per_capita vs. total_cases_per_million
+extreme_poverty vs. total_cases_per_million
+population_density vs.  total_cases_per_million
+(female_smokers + male_smokers ) vs. total_cases_per_million (or total_deaths_per_million)
+Age_65_older vs. total_cases_per_million (or total_deaths_per_million)
+median_age vs. total_cases_per_million (or total_deaths_per_million)
+handwashing_facilities vs. total_cases_per_million
+Diabetes_prevalence vs.  total_deaths_per_million
+total_tests_per_thousand vs. total_cases_per_million
+
 ###What is the environmental impact of a pandemic on CO2 emissions in cities?
 
 ###education
 
 Datasets to be Used:
 
-Timeframe = First case from cities in list - today vs. same time frame last year
-Cities =[“New York City, US”, “Milan, Italy”, “Hong Kong, China”,”São Paulo, Brazil ”, “Cape Town, South Africa”]
+Timeframe = First case of covid - June 2020
 
 Air Quality: https://www.iqair.com/
 
@@ -51,13 +62,9 @@ Ensure columns have the right type
 Combine similar values in each column 
 Filter DataFrame 
 Create Plot
-CO2 emission in different cities 2020 vs 2019
-Air Quality in different cities 2020 vs 2019
-Air Quality vs COVID cases 
-CO2 emission vs COVID cases
-Waste in different cities 2020 vs 2019
-Waste vs COVID cases in different cities
-Traffic??
+###Air Quality in different cities 2020 vs 2019
+###Air Quality vs COVID cases 
+###CO2 emission vs COVID cases
 Save plot
 Highlight key data insights and prepare  presentation
 Prepare Presentation:
@@ -70,16 +77,7 @@ General Introduction
 Worldwide (and/or different continents) total cases from 2020-1-1 to today
 Worldwide (and/or different continents) new cases everyday from 2020-1-1 to today
  
-Trend analysis
-hospital_beds_per_thousand vs. total_deaths_per_million
-gdp_per_capita vs. total_cases_per_million
-extreme_poverty vs. total_cases_per_million
-population_density vs.  total_cases_per_million
-(female_smokers + male_smokers ) vs. total_cases_per_million (or total_deaths_per_million)
-Age_65_older vs. total_cases_per_million (or total_deaths_per_million)
-median_age vs. total_cases_per_million (or total_deaths_per_million)
-handwashing_facilities vs. total_cases_per_million
-Diabetes_prevalence vs.  total_deaths_per_million
-total_tests_per_thousand vs. total_cases_per_million
 
 
+
+### = will be added to project on next Group Assignment
