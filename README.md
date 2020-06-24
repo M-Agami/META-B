@@ -24,8 +24,13 @@ Datasets to be Used:
 
 Timeframe = First case from cities in list - today vs. same time frame last year
 Cities =[“New York City, US”, “Milan, Italy”, “Hong Kong, China”,”São Paulo, Brazil ”, “Cape Town, South Africa”]
+
 Air Quality: https://www.iqair.com/
+
 CO2  Level:https://co2.jpl.nasa.gov/#mission=OCO-2,  https://search.earthdata.nasa.gov/search?fdc=Goddard%20Earth%20Sciences%20Data%20and%20Information%20Services%20Center%20(GES%20DISC)&fpj=OCO-2, https://climate.nasa.gov/vital-signs/carbon-dioxide/
+
+WHO: https://apps.who.int/gho/data/node.imr#ndx-P
+
 Rough Breakdown of Tasks 
 Make API calls
 Set up base url
