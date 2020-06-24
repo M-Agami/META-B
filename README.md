@@ -1,11 +1,15 @@
 “Environmental Impact of a global pandemic”
+
 Team Members - (Team Name:  B-META)
+
 ·        Angela Sivirichi
 ·        Braden Wang
 ·        Maury Agami
 ·        Tajudeen Adeyemi
 ·        Emily Shevell
+
 Project Description/Outline
+
 This project aims to evaluate the impact of the COVID-19 pandemic on multiple demographics across multiple countries that have been indicated as epicentres of the virus. 
 Firstly, we will analyze the air quality in the indicated regions overtime during the pandemic and compare it to last year’s data. We will be cross-examining this with the number of COVID-19 cases to see if there is any correlation between COVID-19 active cases and air quality. 
 Secondly, we will analyze the CO2 emissions of the indicated regions overtime during the pandemic and compare that data to last year’s data. We will be cross-examining this as well with the number of active COVID-19 cases for that region to verify if there is a correlation between COVID-19 and CO2 emission.
