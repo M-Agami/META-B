@@ -18,11 +18,9 @@ Figures will indicate any key milestones and developments announced regarding th
 Research Questions to Answer
 *What is the environmental impact of a pandemic on senior citizens across each country?
 
-*What is the environmental impact of a pandemic on CO2 emissions in Cities?
-Can also compare to gas consumption
-traffic?
-What is the environmental impact of a pandemic on waste in Cities?
-Can compare medical waste, food waste
+###What is the environmental impact of a pandemic on CO2 emissions in cities?
+
+###education
 
 Datasets to be Used:
 
@@ -35,8 +33,10 @@ CO2  Level:https://co2.jpl.nasa.gov/#mission=OCO-2,  https://search.earthdata.na
 
 WHO: https://apps.who.int/gho/data/node.imr#ndx-P
 
+World Bank: http://datatopics.worldbank.org/universal-health-coverage/coronavirus/
+
 Rough Breakdown of Tasks 
-Make API calls
+Make API calls/ Import Csv files
 Set up base url
 Set up parameter 
 Combine into one url 
