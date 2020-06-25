@@ -1,11 +1,15 @@
 “Environmental Impact of a global pandemic”
+
 Team Members - (Team Name:  B-META)
+
 ·        Angela Sivirichi
 ·        Braden Wang
 ·        Maury Agami
 ·        Tajudeen Adeyemi
 ·        Emily Shevell
+
 Project Description/Outline
+
 This project aims to evaluate the impact of the COVID-19 pandemic on multiple demographics across multiple countries that have been indicated as epicentres of the virus. 
 Firstly, we will analyze the air quality in the indicated regions overtime during the pandemic and compare it to last year’s data. We will be cross-examining this with the number of COVID-19 cases to see if there is any correlation between COVID-19 active cases and air quality. 
 Secondly, we will analyze the CO2 emissions of the indicated regions overtime during the pandemic and compare that data to last year’s data. We will be cross-examining this as well with the number of active COVID-19 cases for that region to verify if there is a correlation between COVID-19 and CO2 emission.
@@ -13,13 +17,6 @@ Figures will indicate any key milestones and developments announced regarding th
 
 Research Questions to Answer
 *What is the environmental impact of a pandemic on senior citizens across each country?
-
-###What is the environmental impact of a pandemic on CO2 emissions in Cities?
-
-###What is the environmental impact of a pandemic on traffic?
-
-How does healthcare investments impact populations during the pandemic?
-Can compare medical waste, food waste
 
 How do policy responses affect each country during the outbreak?
 
@@ -39,6 +36,7 @@ WHO: https://apps.who.int/gho/data/node.imr#ndx-P
 
 World Bank: http://datatopics.worldbank.org/universal-health-coverage/coronavirus/
 
+
 #Rough Breakdown of Tasks:
 #Make API calls
 #Set up base url
@@ -48,6 +46,7 @@ World Bank: http://datatopics.worldbank.org/universal-health-coverage/coronaviru
 #Get variables needed through a loop 
 #Put dataset into a DataFrame
 
+
 Clean up DataFrame
 Check for null values 
 Check for duplicates
@@ -55,10 +54,12 @@ Ensure columns have the right type
 Combine similar values in each column 
 Filter DataFrame
 Create Plot
+
 ##CO2 emission in different cities 2020 vs 2019
 ##Air Quality in different cities 2020 vs 2019
 ##Air Quality vs COVID cases
 ##CO2 emission vs COVID cases
+
 Save plot
 Highlight key data insights and prepare  presentation
 Prepare Presentation:
@@ -68,8 +69,8 @@ Dry run
 --Covid-19 Analysis
  
 General Introduction
-Worldwide (and/or different continents) total cases from 2020-1-1 to today
-Worldwide (and/or different continents) new cases everyday from 2020-1-1 to today
+Worldwide  total cases from 2020-1-1 to today
+Worldwide  new daily cases  from 2020-1-1 to today
 Heatmap representing cases of covid per country
 pie chart with top 10 countries with highest number of total cases
 
@@ -97,3 +98,4 @@ gdp_per_capita vs. total_cases_per_million
 population_density vs.  total_cases_per_million
 
 ###will be added to project on next Group Assignment###
+
