@@ -18,25 +18,15 @@ Figures will indicate any key milestones and developments announced regarding th
 Research Questions to Answer
 *What is the environmental impact of a pandemic on senior citizens across each country?
 
-Trend analysis
-hospital_beds_per_thousand vs. total_deaths_per_million
-gdp_per_capita vs. total_cases_per_million
-extreme_poverty vs. total_cases_per_million
-population_density vs.  total_cases_per_million
-(female_smokers + male_smokers ) vs. total_cases_per_million (or total_deaths_per_million)
-Age_65_older vs. total_cases_per_million (or total_deaths_per_million)
-median_age vs. total_cases_per_million (or total_deaths_per_million)
-handwashing_facilities vs. total_cases_per_million
-Diabetes_prevalence vs.  total_deaths_per_million
-total_tests_per_thousand vs. total_cases_per_million
+How do policy responses affect each country during the outbreak?
 
-###What is the environmental impact of a pandemic on CO2 emissions in cities?
+How do population demographics affect impact the spread of covid-19?
 
-###education
+How does a country's financial resources impact its resilience?
 
 Datasets to be Used:
 
-Timeframe = First case of covid - June 2020
+Timeframe = First case of covid-19 - June 2020
 
 Air Quality: https://www.iqair.com/
 
@@ -46,38 +36,65 @@ WHO: https://apps.who.int/gho/data/node.imr#ndx-P
 
 World Bank: http://datatopics.worldbank.org/universal-health-coverage/coronavirus/
 
-Rough Breakdown of Tasks 
-Make API calls/ Import Csv files
-Set up base url
-Set up parameter 
-Combine into one url 
-Make API request 
-Get variables needed through a loop 
-Put dataset into a DataFrame
+
+#Rough Breakdown of Tasks:
+#Make API calls
+#Set up base url
+#Set up parameter 
+#Combine into one url 
+#Make API request 
+#Get variables needed through a loop 
+#Put dataset into a DataFrame
+
 
 Clean up DataFrame
 Check for null values 
 Check for duplicates
 Ensure columns have the right type 
 Combine similar values in each column 
-Filter DataFrame 
+Filter DataFrame
 Create Plot
-###Air Quality in different cities 2020 vs 2019
-###Air Quality vs COVID cases 
-###CO2 emission vs COVID cases
+
+##CO2 emission in different cities 2020 vs 2019
+##Air Quality in different cities 2020 vs 2019
+##Air Quality vs COVID cases
+##CO2 emission vs COVID cases
+
 Save plot
 Highlight key data insights and prepare  presentation
 Prepare Presentation:
 Slide deck 
 Dry run  
 
-Covid-19 Analysis
+--Covid-19 Analysis
  
 General Introduction
-Worldwide (and/or different continents) total cases from 2020-1-1 to today
-Worldwide (and/or different continents) new cases everyday from 2020-1-1 to today
- 
+Worldwide  total cases from 2020-1-1 to today
+Worldwide  new daily cases  from 2020-1-1 to today
+Heatmap representing cases of covid per country
+pie chart with top 10 countries with highest number of total cases
 
+-Trend analysis sorted by collaborator-
 
+Emily Shevell:
+hospital_beds_per_thousand vs. total_deaths_per_million
+(female_smokers + male_smokers ) vs. total_cases_per_million (or total_deaths_per_million)
 
-### = will be added to project on next Group Assignment
+Angela Sivirichi:
+Stringency(Country) vs total_cases/income_level
+Heatmap representing cases of covid per country
+
+Braden Wang:
+Age_65_older vs. total_cases_per_million (or total_deaths_per_million)
+handwashing_facilities vs. total_cases_per_million
+
+Tajudeen Adeyemi:
+Diabetes_prevalence vs.  total_deaths_per_million
+School_closure vs total_deaths
+income_level vs. total_cases_per_million
+
+Maury Agami:
+gdp_per_capita vs. total_cases_per_million
+population_density vs.  total_cases_per_million
+
+###will be added to project on next Group Assignment###
