@@ -1,4 +1,4 @@
-“Environmental Impact of a global pandemic”
+“COVID-19 Data Perspective ”
 
 Team Members - (Team Name:  B-META)
 
