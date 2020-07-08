@@ -38,16 +38,27 @@ World Bank: http://datatopics.worldbank.org/universal-health-coverage/coronaviru
 Rough Breakdown of Tasks:
 
 Clean up DataFrame
+
 Check for null values 
+
 Check for duplicates
+
 Ensure columns have the right type 
+
 Combine similar values in each column 
+
 Filter DataFrame
+
 Create Plot
+
 Save plot
+
 Highlight key data insights and prepare  presentation
+
 Prepare Presentation:
+
 Slide deck 
+
 Dry run  
 
 
